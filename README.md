@@ -1,3 +1,5 @@
 # React-Hook
 
-Hook ve Contex Api konuları öğrenmek için yapılan bir kaç uygulama.
+A few apps to learn Hook and Context Api topics.
+
+Hook ve Context Api konuları öğrenmek için yapılan birkaç uygulama.
